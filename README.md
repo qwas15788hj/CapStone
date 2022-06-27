@@ -10,7 +10,8 @@
 
 [해결 시나리오/방법]
 
-- 주 언어 : JAVA , Kotlin
+- 주 언어 : JAVA , Kotlin , Python
+- 개발 환경: Android Studio, Visual Studio Code, Adobe
 - 정보 습득처 : 티켓팅 사이트, 공공API, 크롤링, 수작업
 - 서버 및 DB : Firebase
 
@@ -34,6 +35,7 @@
 
 [제안하고자 하는 방식의 요소 기술들]
 -Selenium이나 beautifulsoup등을 통한 크롤링
+-Firebase_admin을 이용하여 Firebase DB에 데이터 저장
 -파이어베이스 클라우드 메시징을 통한 푸쉬알람 기능
 -JAVA, Kotlin을 활용한 프로그래밍
 [향후 일정]
